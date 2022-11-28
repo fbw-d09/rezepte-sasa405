@@ -1,4 +1,4 @@
-# Saśa`s Rezeptidee !!
+# *Saśa`s Rezeptidee* !!![Cupavce](https://www.maraswunderland.de/wp-content/uploads/2018/01/IMG_1940_M.jpg)
 Das  **Hauptziel** von dieser Idee ist, dass ich und wir alle zusammen eine Rezeptidee in **Markdown** schreiben **(Coden)** und **einfach** verstehen lernen.
 
 
@@ -10,7 +10,9 @@ Es verwendet die Formatierung **"reiner Text"** und kann in HTML umgewandelt wer
 Markdown ist im Vergleich zu **HTML** viel einfacher zu lesen und zu schreiben. Die durchschnittliche Person kann Markdown in der Regel verstehen und wäre in der Lage, viel schneller zu lernen und zu schreiben als HTML.Daher benutze Ich diese Programm um euch allen meine Idee darzulegen.
 
 ---
-# Süsses Belgrad (Cupavci)  ![Cupavce](testbild.png)
+# Süsses Belgrad  ![Cupavce](https://www.breitengrad53.de/wp-content/uploads/2022/10/belgrad.jpeg)
+
+## *Ćupavce*
 
 Ein klassisches serbisches Gebäck was meine Mutter heute noch in abgewandelter Version für mich und meine Liebsten macht.
 **Einfach nur Lecker**
@@ -20,7 +22,7 @@ Ein klassisches serbisches Gebäck was meine Mutter heute noch in abgewandelter 
 ---
 > ## *Eine kleine Reise in den Balkan*
 
-
+![Cupavce](https://podravkaiovariations.blob.core.windows.net/6bb75602-6406-11eb-b440-0242ac12005e/v/f2b1f6a6-64bc-11eb-b6c2-0242ac130010/1024x768-f2b21802-64bc-11eb-a115-0242ac130010.webp)
 <!--
     Example
    > # H1 Quote
@@ -93,3 +95,10 @@ Kokosraspeln|150-200g|
 ##### Rezept-Anmerkung 
 
 schwierigkeit : simple wenn nicht sogar sehr einfach 
+
+---
+---
+Liebe Leute backt es ruhig nach , denn die süße Wheinachtszeit liegt direkt vor der Haustür!!
+Lasst es euch schmecken.... Hvala Lepo i Uživajte
+---
+---
