@@ -202,12 +202,3 @@ Man kann sie nur mit Puderzucker bestäubt essen, mit Vanillesoße und/oder Zwet
 
 
 
-|          |           |
-|----------|-----------|
-|![Germknödel](https://www.backenmachtgluecklich.de/media/2022/01/Rezept-Germknoedel-350x525.jpg)|![Germknödel](https://www.backenmachtgluecklich.de/media/2022/01/Selbstgemachte-Germknoedel-350x525.jpg)|
-
-
-|          |           |
-|----------|-----------|
-|![Germknödel](https://www.backenmachtgluecklich.de/media/2022/01/Germknoedel-selbermachen-350x525.jpg)|![Germknödel](https://www.backenmachtgluecklich.de/media/2022/01/Oesterreichische-Germknoedel-350x525.jpg)|
-
